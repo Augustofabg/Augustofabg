@@ -1,16 +1,16 @@
 # 👨‍💻 Augusto Fablicio
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Olá! Meu nome é Augusto, tenho 17 anos e sou natural da Paraíba, Brasil. Atualmente, estou cursando o terceiro e último ano do ensino médio.
+Hello! My name is Augusto, I'm 17 years old, and I'm from Paraíba, Brazil. I'm currently in the third and final year of high school.
 
-Sou apaixonado por tecnologia desde muito jovem, e essa paixão tem me impulsionado a aprender cada vez mais sobre desenvolvimento de software e inovação. Estou sempre em busca de novos conhecimentos e desafios que me ajudem a evoluir como programador.
+I've been passionate about technology since I was very young, and this passion has driven me to constantly learn more about software development and innovation. I'm always seeking new knowledge and challenges that help me grow as a programmer.
 
 <a href="https://www.linkedin.com/in/augustofg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -85,7 +85,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 
