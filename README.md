@@ -1,50 +1,80 @@
-# 👨‍💻 Augusto Fablicio
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=FF0000&section=header"/>
 
-**`Backend Developer`**
+<br>
 
-Hello! I'm Augusto, Computer Science student with a focus on backend development and system design.
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/aMvouok.gif" />
+</div>
 
-I enjoy thinking about how things work under the hood. APIs, architecture, and tools that solve real problems and automate workflows. That's what drives me to work with Java, Spring, and MySQL, and to keep pushing my understanding of how robust systems are built.
+<div align="center">
+  
+  <b>`Backend Developer`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Augusto</b>
+  </samp>
+</div>
+<br>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff0000&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;I'm+focus+on+backend;Be+welcome!" alt="Typing SVG"/>
+</div>
+<br>
+<div align="center" width="100%">
+<samp>
+  I enjoy thinking about what happens under the hood <br>
+  APIs, architecture, and tools that solve real problems and automate workflows...
+<br><br>
+  Always building something meaningful.
+ <samp/>   
+<div/>
+    
 
-Always looking for new challenges and meaningful projects to contribute to.
+      
+<br>
+<br>
+      
+<div align="center">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Augustofabg&theme=radical"/>
+</div>
 
-<a href="https://www.linkedin.com/in/augustofg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center" style="display: inline_block"><br>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  
+</div>
 
----
+<br>
+<br>
 
-### 🤖 Technologies
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-<img align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+##
 
-<img align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-        
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<br>
 
-<img 
-    align="left" 
-    alt="MySQl" 
-    title="MySQl"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<br/>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-![Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Augustofabg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:augustofabg@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/augustofg/)
+  
+</div>
+<br>
+
+##
