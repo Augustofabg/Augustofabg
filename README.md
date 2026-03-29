@@ -1,10 +1,12 @@
 # 👨‍💻 Augusto Fablicio
 
-**`Full Stack Developer`**
+**`Backend Developer`**
 
-Hello! My name is Augusto, I'm 17 years old, and I'm from Paraíba, Brazil. I'm currently in the third and final year of high school.
+Hello! I'm Augusto, Computer Science student with a focus on backend development and system design.
 
-I've been passionate about technology since I was very young, and this passion has driven me to constantly learn more about software development and innovation. I'm always seeking new knowledge and challenges that help me grow as a programmer.
+I enjoy thinking about how things work under the hood. APIs, architecture, and tools that solve real problems and automate workflows. That's what drives me to work with Java, Spring, and MySQL, and to keep pushing my understanding of how robust systems are built.
+
+Always looking for new challenges and meaningful projects to contribute to.
 
 <a href="https://www.linkedin.com/in/augustofg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
