@@ -45,5 +45,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<r/>
 <br/>
+
+![Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Augustofabg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en)
