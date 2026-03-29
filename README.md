@@ -72,7 +72,7 @@
   <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:augustofabg@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/augustofbg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=fff)](linkedin.com/in/augustofbg)
   
 </div>
 <br>
