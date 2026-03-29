@@ -77,4 +77,9 @@
 </div>
 <br>
 
+</details>
+
 ##
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=ff0000&customColorList=23&section=footer"/>
